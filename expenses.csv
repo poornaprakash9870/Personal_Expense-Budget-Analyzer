@@ -1,0 +1,101 @@
+id,date,category,description,amount,type
+1,01-Jan-2026,Salary,Monthly Salary,45000,INCOME
+2,02-Jan-2026,Food,Groceries,2500,EXPENSE
+3,04-Jan-2026,Transport,Fuel,1250,EXPENSE
+4,06-Jan-2026,Utilities,Electricity Bill,1120,EXPENSE
+5,08-Jan-2026,Food,Restaurant,530,EXPENSE
+6,10-Jan-2026,Shopping,Clothes,1650,EXPENSE
+7,12-Jan-2026,Entertainment,Movie,370,EXPENSE
+8,14-Jan-2026,Health,Medicines,440,EXPENSE
+9,16-Jan-2026,Education,Books,650,EXPENSE
+10,18-Jan-2026,Transport,Bus Pass,310,EXPENSE
+11,20-Jan-2026,Food,Groceries,1860,EXPENSE
+12,22-Jan-2026,Utilities,Internet Bill,700,EXPENSE
+13,24-Jan-2026,Other,Miscellaneous,525,EXPENSE
+14,01-Feb-2026,Salary,Monthly Salary,45000,INCOME
+15,02-Feb-2026,Food,Groceries,2500,EXPENSE
+16,04-Feb-2026,Transport,Fuel,1300,EXPENSE
+17,06-Feb-2026,Utilities,Electricity Bill,1140,EXPENSE
+18,08-Feb-2026,Food,Restaurant,560,EXPENSE
+19,10-Feb-2026,Shopping,Clothes,1800,EXPENSE
+20,12-Feb-2026,Entertainment,Movie,390,EXPENSE
+21,14-Feb-2026,Health,Medicines,480,EXPENSE
+22,16-Feb-2026,Education,Books,700,EXPENSE
+23,18-Feb-2026,Transport,Bus Pass,320,EXPENSE
+24,20-Feb-2026,Food,Groceries,1920,EXPENSE
+25,22-Feb-2026,Utilities,Internet Bill,700,EXPENSE
+26,24-Feb-2026,Other,Miscellaneous,550,EXPENSE
+27,01-Mar-2026,Salary,Monthly Salary,45000,INCOME
+28,02-Mar-2026,Food,Groceries,2500,EXPENSE
+29,04-Mar-2026,Transport,Fuel,1350,EXPENSE
+30,06-Mar-2026,Utilities,Electricity Bill,1160,EXPENSE
+31,08-Mar-2026,Food,Restaurant,590,EXPENSE
+32,10-Mar-2026,Shopping,Clothes,1950,EXPENSE
+33,12-Mar-2026,Entertainment,Movie,410,EXPENSE
+34,14-Mar-2026,Health,Medicines,520,EXPENSE
+35,16-Mar-2026,Education,Books,750,EXPENSE
+36,18-Mar-2026,Transport,Bus Pass,330,EXPENSE
+37,20-Mar-2026,Food,Groceries,1980,EXPENSE
+38,22-Mar-2026,Utilities,Internet Bill,700,EXPENSE
+39,24-Mar-2026,Other,Miscellaneous,575,EXPENSE
+40,01-Apr-2026,Salary,Monthly Salary,45000,INCOME
+41,02-Apr-2026,Food,Groceries,2500,EXPENSE
+42,04-Apr-2026,Transport,Fuel,1400,EXPENSE
+43,06-Apr-2026,Utilities,Electricity Bill,1180,EXPENSE
+44,08-Apr-2026,Food,Restaurant,620,EXPENSE
+45,10-Apr-2026,Shopping,Clothes,2100,EXPENSE
+46,12-Apr-2026,Entertainment,Movie,430,EXPENSE
+47,14-Apr-2026,Health,Medicines,560,EXPENSE
+48,16-Apr-2026,Education,Books,800,EXPENSE
+49,18-Apr-2026,Transport,Bus Pass,340,EXPENSE
+50,20-Apr-2026,Food,Groceries,2040,EXPENSE
+51,22-Apr-2026,Utilities,Internet Bill,700,EXPENSE
+52,24-Apr-2026,Other,Miscellaneous,600,EXPENSE
+53,01-May-2026,Salary,Monthly Salary,45000,INCOME
+54,02-May-2026,Food,Groceries,2500,EXPENSE
+55,04-May-2026,Transport,Fuel,1450,EXPENSE
+56,06-May-2026,Utilities,Electricity Bill,1200,EXPENSE
+57,08-May-2026,Food,Restaurant,650,EXPENSE
+58,10-May-2026,Shopping,Clothes,2250,EXPENSE
+59,12-May-2026,Entertainment,Movie,450,EXPENSE
+60,14-May-2026,Health,Medicines,600,EXPENSE
+61,16-May-2026,Education,Books,850,EXPENSE
+62,18-May-2026,Transport,Bus Pass,350,EXPENSE
+63,20-May-2026,Food,Groceries,2100,EXPENSE
+64,22-May-2026,Utilities,Internet Bill,700,EXPENSE
+65,24-May-2026,Other,Miscellaneous,625,EXPENSE
+66,01-Jun-2026,Salary,Monthly Salary,45000,INCOME
+67,02-Jun-2026,Food,Groceries,2500,EXPENSE
+68,04-Jun-2026,Transport,Fuel,1500,EXPENSE
+69,06-Jun-2026,Utilities,Electricity Bill,1220,EXPENSE
+70,08-Jun-2026,Food,Restaurant,680,EXPENSE
+71,10-Jun-2026,Shopping,Clothes,2400,EXPENSE
+72,12-Jun-2026,Entertainment,Movie,470,EXPENSE
+73,14-Jun-2026,Health,Medicines,640,EXPENSE
+74,16-Jun-2026,Education,Books,900,EXPENSE
+75,18-Jun-2026,Transport,Bus Pass,360,EXPENSE
+76,20-Jun-2026,Food,Groceries,2160,EXPENSE
+77,22-Jun-2026,Utilities,Internet Bill,700,EXPENSE
+78,24-Jun-2026,Other,Miscellaneous,650,EXPENSE
+79,01-Jul-2026,Salary,Monthly Salary,45000,INCOME
+80,02-Jul-2026,Food,Groceries,2500,EXPENSE
+81,04-Jul-2026,Transport,Fuel,1550,EXPENSE
+82,06-Jul-2026,Utilities,Electricity Bill,1240,EXPENSE
+83,08-Jul-2026,Food,Restaurant,710,EXPENSE
+84,10-Jul-2026,Shopping,Clothes,2550,EXPENSE
+85,12-Jul-2026,Entertainment,Movie,490,EXPENSE
+86,14-Jul-2026,Health,Medicines,680,EXPENSE
+87,16-Jul-2026,Education,Books,950,EXPENSE
+88,18-Jul-2026,Transport,Bus Pass,370,EXPENSE
+89,20-Jul-2026,Food,Groceries,2220,EXPENSE
+90,22-Jul-2026,Utilities,Internet Bill,700,EXPENSE
+91,24-Jul-2026,Other,Miscellaneous,675,EXPENSE
+92,01-Aug-2026,Salary,Monthly Salary,45000,INCOME
+93,02-Aug-2026,Food,Groceries,2500,EXPENSE
+94,04-Aug-2026,Transport,Fuel,1600,EXPENSE
+95,06-Aug-2026,Utilities,Electricity Bill,1260,EXPENSE
+96,08-Aug-2026,Food,Restaurant,740,EXPENSE
+97,10-Aug-2026,Shopping,Clothes,2700,EXPENSE
+98,12-Aug-2026,Entertainment,Movie,510,EXPENSE
+99,14-Aug-2026,Health,Medicines,720,EXPENSE
+100,16-Aug-2026,Education,Books,1000,EXPENSE
