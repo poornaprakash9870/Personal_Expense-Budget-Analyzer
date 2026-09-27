@@ -41,18 +41,7 @@ How It Works
 The application reads transaction data from a CSV file and converts each record into a Transaction object.
 
 The transactions are stored in a collection and processed using Java Stream API operations to perform different financial calculations and analysis.
-CSV File
-   ↓
-CSV Reader
-   ↓
-Transaction Objects
-   ↓
-Collection of Transactions
-   ↓
-Budget Service
-   ↓
-Java Stream API
-   ↓
-Financial Analysis
-   ↓
-Console Output
+
+
+
+CSV File → CSV Reader → Transaction Objects → Collection → Budget Service → Java Stream API → Financial Analysis → Console Output
